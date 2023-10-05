@@ -2,6 +2,7 @@
 <h3 align="center">An aspiring student from the University of Delaware</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1908599/screenshots/11122765/____2.gif">
 
+![____2](https://github.com/danzmill/danzmill/assets/135555427/bf26148e-dae3-4924-acdc-1050404a9bd1)
 
 - 🔭 I’m currently working on on **My First Full-Stack Project**
 
