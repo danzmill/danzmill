@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Daniel</h1>
 <h3 align="center">An aspiring student from the University of Delaware</h3>
-<img align="right" alt="Coding" width"400" src="https://cdn.dribbble.com/users/1908599/screenshots/11122765/____2.gif">
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1908599/screenshots/11122765/____2.gif">
+
 
 - 🔭 I’m currently working on on **My First Full-Stack Project**
 
