@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Daniel</h1>
 <h3 align="center">An aspiring student from the University of Delaware</h3>
-<img align="right" alt="____2" width="400" src="![____2](https://github.com/danzmill/danzmill/assets/135555427/bf26148e-dae3-4924-acdc-1050404a9bd1)">
+<img align="right" alt="____2" width="400" src="https://github.com/danzmill/danzmill/assets/135555427/bf26148e-dae3-4924-acdc-1050404a9bd1">
 
 - 🔭 I’m currently working on on **My First Full-Stack Project**
 
